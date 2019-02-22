@@ -54,4 +54,4 @@ while True:
    
    #Instruksi gerakan pod
    print(posisi) 
-   print(muncul)
+   print(muncul) #selesai
